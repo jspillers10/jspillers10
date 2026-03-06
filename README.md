@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jake!</h1>
+<h1>Hi, I'm Jake</h1>
 
 <h2>Cyber Security Specialist | Application Security | ML Security | Cloud Security</h2>
 
