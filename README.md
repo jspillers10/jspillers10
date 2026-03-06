@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Jake Spillers 👋</h1>
-<h3 align="center">Cybersecurity SPecialist and Engineer | Security Automation | Python, C, C#, AWS</h3>
+<h1>Hi, I'm Jake Spillers 👋</h1>
+<h3> Cybersecurity Specialist and Engineer | Security Automation | Python, C, C#, AWS</h3>
 
 <p align="center">
   I build security-focused tools across cyber defense, automation, cloud, and machine learning security.
