@@ -10,7 +10,7 @@
   - <a href="https://github.com/jspillers10/ml-security-scanner">ML Security Scanner</a>
   - <a href="https://github.com/jspillers10/Nessus-Scan-Automation">Nessus Scan Automation</a>
 
-• EDR / Kernel Security
+• <b>EDR / Kernel Security</b>
   - [ebpf-edr](https://github.com/jspillers10/ebpf-edr)
 
 • <b>AI / ML Security</b>
