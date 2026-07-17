@@ -15,6 +15,7 @@
 
 • <b>AI / ML Security</b>
   - <a href="https://github.com/jspillers10/privacy-preserving-ml-defense">Privacy Preserving ML Defense</a>
+  - <a href="https://github.com/jspillers10/mcp-security-scanner">MCP Security Scanner</a>
 
 • <b>Cloud Security</b>
   - <a href="https://github.com/jspillers10/AWS_SAA_Project">AWS Secure Multi-Tier Architecture</a>
